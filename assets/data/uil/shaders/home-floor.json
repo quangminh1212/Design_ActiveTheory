@@ -1,0 +1,21 @@
+{
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uColor": "#93e5ff",
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uBaseColor": "#161616",
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uDistortStrength": 5.36,
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uLight": [
+    1,
+    1,
+    -4.41,
+    1
+  ],
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uMirrorAdd": 0.31000000000000005,
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uNormalStrength": 0.05,
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/uUVScale": [
+    0.4800000000000002,
+    1
+  ],
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/_tx_tMRO": "{\"src\":\"assets/images/home/floor_mro.jpg\",\"relative\":\"home\",\"prefix\":\"assets/images\",\"filename\":\"floor_mro.jpg\",\"compressed\":false}",
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/_tx_tMatcap": "{\"src\":\"assets/images/home/matcap3.jpg\",\"relative\":\"home\",\"prefix\":\"assets/images\",\"filename\":\"matcap3.jpg\",\"compressed\":false}",
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/_tx_tNormal": "{\"src\":\"assets/images/home/floor_normal.jpg?1635186716130\",\"hotreload\":true}",
+  "HomeFloorShader/HomeFloorShader/Element_2_home_scene/_tx_tAO": "{\"src\":\"assets/images/home/ao.jpg?1624062254190\",\"hotreload\":true}"
+}

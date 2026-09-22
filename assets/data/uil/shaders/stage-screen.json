@@ -1,0 +1,6 @@
+{
+  "StageScreenShader/StageScreenShader/Element_4_homeScene/_tx_tMap": "{\"src\":\"assets/images/global/env-specular-blur-sRGB.jpg\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"env-specular-blur-sRGB.jpg\",\"compressed\":false}",
+  "StageScreenShader/StageScreenShader/Element_4_homeScene/_tx_tDefault": "{\"src\":\"assets/images/global/env-diffuse-sRGB.png\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"env-diffuse-sRGB.png\",\"compressed\":false}",
+  "StageScreenShader/StageScreenShader/Element_7_homeScene/_tx_tMap": "{\"src\":\"assets/images/global/env-diffuse-sRGB.png\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"env-diffuse-sRGB.png\",\"compressed\":false}",
+  "StageScreenShader/StageScreenShader/Element_7_homeScene/_tx_tDefault": "{\"src\":\"assets/images/global/env-diffuse-sRGB.png\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"env-diffuse-sRGB.png\",\"compressed\":false}"
+}

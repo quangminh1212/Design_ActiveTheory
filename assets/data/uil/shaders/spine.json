@@ -1,0 +1,70 @@
+{
+  "SpineShader/SpineShader/Element_5_Work/_tx_tBaseColor": {
+    "compressed": "ktx2",
+    "filename": "alien_cracked_2_basecolor.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_basecolor.png",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/_tx_tMRO": {
+    "compressed": "ktx2",
+    "filename": "cliffs_MRO.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/cliffs_MRO.png",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "SpineShader/SpineShader/Element_5_Work/_tx_tNormal": {
+    "hotreload": true,
+    "src": "assets/images/pbr/damaged_road_normal.png?1704405937759-compressedKtx2"
+  },
+  "SpineShader/SpineShader/Element_5_Work/_txtMRO": {
+    "compressed": "ktx2",
+    "filename": "cliffs_MRO.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/cliffs_MRO.png",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/_txtMatcap": {
+    "compressed": "ktx2",
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/_txtNormal": {
+    "compressed": "ktx2",
+    "filename": "damaged_road_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/damaged_road_normal.png",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/_txtBaseColor": {
+    "compressed": "ktx2",
+    "filename": "alien_cracked_2_basecolor.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_basecolor.png",
+    "useCompressed": true
+  },
+  "SpineShader/SpineShader/Element_5_Work/uNormalStrength": 0.19,
+  "SpineShader/SpineShader/Element_5_Work/uColor": "#d1fff4",
+  "SpineShader/SpineShader/Element_5_Work/uLight": [
+    1,
+    1,
+    1,
+    0.4
+  ],
+  "SpineShader/SpineShader/Element_5_Work/uReflection": [
+    2.7,
+    0.85
+  ]
+}

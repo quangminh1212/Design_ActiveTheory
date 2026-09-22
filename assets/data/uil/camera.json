@@ -1,0 +1,295 @@
+{
+  "CAMERA_Element_3_home_scenegroupPos": [
+    0,
+    1.95,
+    8.020000000000001
+  ],
+  "CAMERA_Element_3_home_scenedeltaRotate": 3,
+  "CAMERA_Element_3_home_scenefov": 30,
+  "CAMERA_Element_3_home_scenemoveXY": [
+    0.4,
+    0.2
+  ],
+  "CAMERA_Element_3_home_sceneposition": [
+    0,
+    0,
+    8
+  ],
+  "CAMERA_Element_3_home_scenerotation": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_3_home_scenewobbleStrength": 0.1,
+  "CAMERA_Element_0_FootergroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_0_FooterlookAt": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_0_FootermoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_0_Footerposition": [
+    0,
+    -1.03,
+    40
+  ],
+  "CAMERA_Element_10_CleanRoomgroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_10_CleanRoomfov": 30,
+  "CAMERA_Element_10_CleanRoomlookAt": [
+    0,
+    0.8,
+    -0.3
+  ],
+  "CAMERA_Element_10_CleanRoomlerpSpeed": 0.08,
+  "CAMERA_Element_10_CleanRoommoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_10_CleanRoomposition": [
+    0,
+    1,
+    5
+  ],
+  "CAMERA_Element_10_CleanRoomrotation": [
+    0.99,
+    0,
+    0
+  ],
+  "CAMERA_Element_10_TreeScenegroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_10_TreeScenelookAt": [
+    -2,
+    4.74,
+    6
+  ],
+  "CAMERA_Element_10_TreeScenemoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_10_TreeSceneposition": [
+    0,
+    5,
+    32
+  ],
+  "CAMERA_Element_1_AboutmoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_1_Aboutposition": [
+    0,
+    0,
+    6
+  ],
+  "CAMERA_Element_1_ContactUsposition": [
+    0,
+    0,
+    6
+  ],
+  "CAMERA_Element_1_ContactgroupPos": [
+    0,
+    0,
+    0.004
+  ],
+  "CAMERA_Element_1_Contactposition": [
+    0,
+    0,
+    6
+  ],
+  "CAMERA_Element_1_HomegroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_1_Homefov": 30,
+  "CAMERA_Element_1_HomelookAt": [
+    0,
+    4.59,
+    0
+  ],
+  "CAMERA_Element_1_HomelerpSpeed": 0.1,
+  "CAMERA_Element_1_HomelerpSpeed2": 1,
+  "CAMERA_Element_1_HomemoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_1_Homeposition": [
+    0,
+    2,
+    40
+  ],
+  "CAMERA_Element_1_JellyfishDemomoveXY": [
+    1,
+    1
+  ],
+  "CAMERA_Element_1_JellyfishDemoposition": [
+    0,
+    0,
+    6
+  ],
+  "CAMERA_Element_1_WorkDetailParticleslookAt": [
+    0,
+    0,
+    5
+  ],
+  "CAMERA_Element_1_WorkDetailParticlesmoveXY": [
+    -4,
+    4
+  ],
+  "CAMERA_Element_1_WorkDetailParticlesposition": [
+    0,
+    0,
+    22
+  ],
+  "CAMERA_Element_1_WorkDetailgroupPos": [
+    0,
+    0,
+    9.33
+  ],
+  "CAMERA_Element_1_WorkDetaillookAt": [
+    0,
+    0,
+    -10
+  ],
+  "CAMERA_Element_1_WorkDetaillerpSpeed": 0.07,
+  "CAMERA_Element_1_WorkDetailmoveXY": [
+    -1,
+    0.5
+  ],
+  "CAMERA_Element_1_WorkDetailposition": [
+    0,
+    0,
+    1
+  ],
+  "CAMERA_Element_1_WorkDetailviewportFocus": [
+    0,
+    0
+  ],
+  "CAMERA_Element_1_homeScenefar": 100,
+  "CAMERA_Element_1_homeScenefov": 20,
+  "CAMERA_Element_1_homeScenelookAt": [
+    0,
+    3,
+    0
+  ],
+  "CAMERA_Element_1_homeSceneposition": [
+    0,
+    3,
+    15
+  ],
+  "CAMERA_Element_1_particleTestposition": [
+    0,
+    0,
+    10
+  ],
+  "CAMERA_Element_2_work_pagemoveXY": [
+    0.5,
+    0.5
+  ],
+  "CAMERA_Element_2_work_pageposition": [
+    0,
+    0,
+    2
+  ],
+  "CAMERA_Element_2_WorkcameraRotation": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_2_WorkgroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_2_Workfov": 35,
+  "CAMERA_Element_2_WorklookAt": [
+    0,
+    0,
+    -4
+  ],
+  "CAMERA_Element_2_WorklerpSpeed": 0.07,
+  "CAMERA_Element_2_WorklerpSpeed2": 1,
+  "CAMERA_Element_2_WorkmoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_2_Workposition": [
+    0,
+    0,
+    2
+  ],
+  "CAMERA_Element_2_Workrotation": [
+    0,
+    196.07,
+    0
+  ],
+  "CAMERA_Element_4_ParticleTestgroupPos": [
+    0,
+    0,
+    0
+  ],
+  "CAMERA_Element_4_ParticleTestlookAt": [
+    0,
+    6.2,
+    2
+  ],
+  "CAMERA_Element_4_ParticleTestmoveXY": [
+    0,
+    0
+  ],
+  "CAMERA_Element_4_ParticleTestposition": [
+    0,
+    8,
+    35
+  ],
+  "CAMERA_Element_4_ParticleTestrotation": [
+    0,
+    0,
+    0
+  ],
+  "GROUP_CleanRoom_group_0_name": "room",
+  "GROUP_CleanRoom_group_0_sortIndex": 1,
+  "GROUP_TreeScene_group_0_name": "wrapper",
+  "GROUP_TreeScene_group_0_sortIndex": 1,
+  "SHADOW_Element_1_ParticleTesttarget": [
+    1.45,
+    -0.32,
+    19.36
+  ],
+  "SHADOW_Element_1_ParticleTestfar": 400,
+  "SHADOW_Element_1_ParticleTestfov": 120,
+  "SHADOW_Element_1_ParticleTestposition": [
+    -1.85,
+    5.61,
+    -13.5
+  ],
+  "SHADOW_Element_1_ParticleTestsize": 2048,
+  "SHADOW_Element_9_home_scenefar": 40,
+  "SHADOW_Element_9_home_scenesize": 1024,
+  "SHADOW_Element_9_home_scenestatic": true,
+  "SHADOW_Element_9_home_sceneposition": [
+    0,
+    6.51,
+    0
+  ],
+  "SHADOW_Element_9_home_scenetarget": [
+    0,
+    0,
+    0
+  ],
+  "groupBridge_CleanRoom_groups": 1,
+  "groupBridge_TreeScene_groups": 1
+}

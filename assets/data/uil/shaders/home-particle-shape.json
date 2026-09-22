@@ -1,0 +1,10 @@
+{
+  "homeParticleShapeuCurlNoiseScale": 8,
+  "homeParticleShapeuCurlNoiseSpeed": 1,
+  "homeParticleShapeuCurlTimeScale": 2,
+  "homeParticleShapeuMouseStrength": 3,
+  "homeParticleShapeuPlaneScale": 2.86,
+  "homeParticleShapeuPlaneThickness": 2.5,
+  "homeParticleShapeuReturnOrigin": 0,
+  "homeParticleShapeuTakePlaneShape": 0
+}

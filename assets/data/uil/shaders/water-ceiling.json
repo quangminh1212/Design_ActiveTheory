@@ -1,0 +1,18 @@
+{
+  "WaterCeilingShader/WaterCeilingShader/Element_16_CleanRoom/_txtMap": {
+    "compressed": "ktx2",
+    "filename": "cracked_ice_basecolor.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/cracked_ice_basecolor.png",
+    "useCompressed": true
+  },
+  "WaterCeilingShader/WaterCeilingShader/Element_16_CleanRoom/_tx_tMap": {
+    "compressed": "ktx2",
+    "filename": "cracked_ice_basecolor.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/cracked_ice_basecolor.png",
+    "useCompressed": true
+  }
+}

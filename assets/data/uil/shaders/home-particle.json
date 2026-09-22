@@ -1,0 +1,13 @@
+{
+  "HomeParticleShader/HomeParticleShader/P_Element_19_home_scene/uFresnelStrength": 0.67,
+  "HomeParticleShader/HomeParticleShader/P_Element_19_home_scene/uSize": 2.45,
+  "HomeParticleShader/HomeParticleShader/P_Element_19_home_scene/uVideoAdjust": [
+    0.92,
+    0.92
+  ],
+  "HomeParticleShader/HomeParticleShader/P_Element_19_home_scene/uVideoBound": [
+    1.29,
+    1.29
+  ],
+  "HomeParticleShader/HomeParticleShader/P_Element_19_home_scene/_tx_tNormal": "{\"src\":\"assets/images/home/sphere-normal.jpg?1635186716418\",\"hotreload\":true}"
+}

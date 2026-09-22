@@ -1,0 +1,14 @@
+{
+  "FlowerParticleShader/FlowerParticleShader/P_Element_6_Work/_txtMap": {
+    "compressed": "ktx2",
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": true
+  },
+  "FlowerParticleShader/FlowerParticleShader/P_Element_6_Work/_tx_tMap": {
+    "hotreload": true,
+    "src": "assets/images/particle/matcap3.png?1704406093391-compressedKtx2"
+  }
+}

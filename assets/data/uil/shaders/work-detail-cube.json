@@ -1,0 +1,40 @@
+{
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/_tx_tEnv": {
+    "compressed": "ktx2",
+    "filename": "env1.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/env1.jpg",
+    "useCompressed": true
+  },
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/_tx_tNormal": {
+    "compressed": "ktx2",
+    "filename": "woodplanks_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/woodplanks_normal.png",
+    "useCompressed": true
+  },
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/_txtNormal": {
+    "compressed": "ktx2",
+    "filename": "woodplanks_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/woodplanks_normal.png",
+    "useCompressed": true
+  },
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/_txtEnv": {
+    "compressed": "ktx2",
+    "filename": "env1.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/env1.jpg",
+    "useCompressed": true
+  },
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uNormalScale": 6,
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uDistortStrength": 5,
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uFresnelPow": 0.1,
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uParticleDarken": 0.6,
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uRefractionRatio": 1,
+  "WorkDetailCube/WorkDetailCube/Element_0_WorkDetail/uSideReflection": 0.4
+}

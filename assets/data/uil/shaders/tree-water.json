@@ -1,0 +1,118 @@
+{
+  "TreeWaterShader/TreeWaterShader/uColor": "#002d57",
+  "TreeWaterShader/TreeWaterShader/uBrightness": 0.64,
+  "TreeWaterShader/TreeWaterShader/uLight": [
+    -0.23,
+    1.41,
+    -2.09,
+    0.38
+  ],
+  "TreeWaterShader/TreeWaterShader/uMouseUVStrength": 0,
+  "TreeWaterShader/TreeWaterShader/uNormalStrength": 0.67,
+  "TreeWaterShader/TreeWaterShader/uScale": 202.03,
+  "TreeWaterShader/TreeWaterShader/uSpeed": 0.12,
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_tx_tMRO": {
+    "compressed": "ktx2",
+    "filename": "empty_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_mro.jpg",
+    "useCompressed": true
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_tx_tWaterNormal": {
+    "compressed": false,
+    "filename": "desert_bedrock_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/desert_bedrock_normal.png",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_txtMRO": {
+    "compressed": "ktx2",
+    "filename": "empty_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_mro.jpg",
+    "useCompressed": true
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_txtMatcap": {
+    "compressed": "ktx2",
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": true
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/_txtWaterNormal": {
+    "compressed": false,
+    "filename": "desert_bedrock_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/desert_bedrock_normal.png",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uBrightness": 2,
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uColor": "#ffffff",
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uLight": [
+    -2.96,
+    7.5,
+    -1.93,
+    0.04
+  ],
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uNormalStrength": 1,
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uScale": 1000,
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uSpeed": 0.04,
+  "TreeWaterShader/TreeWaterShader/Element_9_TreeScene/uWaterUVStrength": -5,
+  "TreeWaterShader/TreeWaterShader/_txtMRO": {
+    "compressed": false,
+    "filename": "empty_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_mro.jpg",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/_txtMatcap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/_txtWaterNormal": {
+    "compressed": false,
+    "filename": "4141-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/4141-normal.jpg",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/_tx_tMRO": {
+    "compressed": false,
+    "filename": "empty_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_mro.jpg",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "TreeWaterShader/TreeWaterShader/_tx_tWaterNormal": {
+    "compressed": false,
+    "filename": "4141-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/4141-normal.jpg",
+    "useCompressed": false
+  }
+}

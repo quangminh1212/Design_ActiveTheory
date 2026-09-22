@@ -1,0 +1,23 @@
+{
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/_tx_tEnvDiffuse": "{\"src\":\"assets/images/tomoco_studio-diffuse-RGBM.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"tomoco_studio-diffuse-RGBM.png\",\"compressed\":false}",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/_tx_tEnvSpecular": "{\"src\":\"assets/images/tomoco_studio-specular-RGBM.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"tomoco_studio-specular-RGBM.png\",\"compressed\":false}",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/_tx_tLightmap": "{\"src\":\"assets/images/_scenelayout/uv.jpg\",\"relative\":\"_scenelayout\",\"prefix\":\"assets/images\",\"filename\":\"uv.jpg\",\"compressed\":false}",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/_tx_tMRO": "{\"src\":\"assets/images/new_nsx_updated_MRO.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"new_nsx_updated_MRO.png\",\"compressed\":false}",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/_tx_tNormal": "{\"src\":\"assets/images/new_nsx_updated_Normal.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"new_nsx_updated_Normal.png\",\"compressed\":false}",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uMRON": [
+    0,
+    0,
+    1,
+    1
+  ],
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uDistortStrength": 2.8100000000000005,
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uEnv": [
+    10,
+    0
+  ],
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uFresnelAlpha": 0,
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uFresnelColor": "#ff0000",
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uFresnelPow": 0.29999999999999993,
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uRGBStrength": 3.0300000000000002,
+  "GlassShaderPBR/GlassShaderPBR/Element_1_glass_test/uTransparent": 0
+}

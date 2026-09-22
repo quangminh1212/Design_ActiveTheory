@@ -1,0 +1,13 @@
+{
+  "LightVolume/LightVolume/Element_6_ParticleTest/uAlpha": 0.2,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uDPR": 2,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uHueShift": 0,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uOffset": 0,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uMaskScale": 0.5,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uNoiseScale": 0.2,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uNoiseSpeed": 1,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uScale": 1,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uSeparation": 1,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uRotateSpeed": 0.5,
+  "LightVolume/LightVolume/Element_6_ParticleTest/uRotateTexture": 0
+}

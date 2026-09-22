@@ -1,0 +1,120 @@
+{
+  "CleanRoomCompositeuContrast": [
+    0.97,
+    1
+  ],
+  "CleanRoomCompositeuRGBStrength": 0.3,
+  "CleanRoomCompositeuVolumetricStrength": 0.3,
+  "GlobalComposite_tx_tContact": {
+    "compressed": false,
+    "filename": "contact.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_temp/contact.jpg",
+    "useCompressed": false
+  },
+  "GlobalComposite_tx_tNormal": {
+    "hotreload": true,
+    "src": "assets/images/pbr/damaged_road_normal.png?1704405937759-compressedKtx2"
+  },
+  "GlobalComposite_txtNormal": {
+    "compressed": false,
+    "filename": "damaged_road_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/damaged_road_normal.png",
+    "useCompressed": false
+  },
+  "GlobalComposite_txtContact": {
+    "compressed": false,
+    "filename": "contact.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_temp/contact.jpg",
+    "useCompressed": false
+  },
+  "GlobalCompositeuNormalScale": 3,
+  "GlobalCompositeuRGBStrength": 1,
+  "HomeCompositeuContrast": [
+    0.98,
+    1.2
+  ],
+  "HomeCompositeuRGBStrength": 0,
+  "HomeCompositeuVolumetricStrength": 1.1,
+  "HomeSceneVFX_home_uNoDOFContrast": [
+    1.3299999999999998,
+    1.8599999999999999
+  ],
+  "HomeSceneVFX_home_uAtmosphere": [
+    0.13,
+    2.1300000000000003,
+    1,
+    0.4099999999999999
+  ],
+  "HomeSceneVFX_home_uDOF": [
+    0.72,
+    0.8,
+    0.3,
+    1
+  ],
+  "HomeSceneVFX_home_uDOFContrast": [
+    1.28,
+    2.41
+  ],
+  "HomeSceneVFX_home_uFogColor": "#1a90ad",
+  "HomeSceneVFX_home_uFog": [
+    0,
+    1.24,
+    1,
+    0.89
+  ],
+  "WorkCompositeuContrast": [
+    1,
+    1
+  ],
+  "WorkCompositeuRGBStrength": 0,
+  "WorkCompositeuTransition": 0,
+  "WorkPageCompositeuDOF": [
+    0.1,
+    0.4099999999999999,
+    0.25,
+    0
+  ],
+  "WorkPageCompositeuDOFContrast": [
+    1,
+    1.1400000000000001
+  ],
+  "TreeSceneCompositeuContrast": [
+    1,
+    1.5
+  ],
+  "TreeSceneCompositeuRGBStrength": 0,
+  "UnrealBloomComposite_shaderVariants_contactbloomStrength": 0.8,
+  "UnrealBloomComposite_shaderVariants_contactbloomRadius": 0.5,
+  "UnrealBloomComposite_shaderVariants_contactbloomTintColor": "#ffffff",
+  "UnrealBloomComposite_shaderVariants_aboutbloomRadius": 1,
+  "UnrealBloomComposite_shaderVariants_aboutbloomStrength": 1,
+  "UnrealBloomComposite_shaderVariants_footerbloomRadius": 0.5,
+  "UnrealBloomComposite_shaderVariants_footerbloomStrength": 0.7,
+  "UnrealBloomComposite_shaderVariants_footerbloomTintColor": "#ffffff",
+  "UnrealBloomComposite_shaderVariants_homebloomStrength": 0.6,
+  "UnrealBloomComposite_shaderVariants_homebloomRadius": 0.8,
+  "UnrealBloomComposite_shaderVariants_workbloomStrength": 0.5,
+  "UnrealBloomComposite_shaderVariants_workbloomRadius": 0.5,
+  "UnrealBloomComposite_shaderVariants_treebloomStrength": 0.8,
+  "UnrealBloomComposite_shaderVariants_treebloomRadius": 0.7,
+  "VolumetricLight_cleanroom_fClamp": 1,
+  "VolumetricLight_cleanroom_fDecay": 0.865,
+  "VolumetricLight_cleanroom_fDensity": 0.29,
+  "VolumetricLight_cleanroom_fExposure": 0.62,
+  "VolumetricLight_cleanroom_fWeight": 1,
+  "VolumetricLight_home_fClamp": 1,
+  "VolumetricLight_home_fDecay": 0.8,
+  "VolumetricLight_home_fDensity": 0.22,
+  "VolumetricLight_home_fExposure": 0.86,
+  "VolumetricLight_home_fWeight": 0.34,
+  "VolumetricLightfDecay": 0.93,
+  "VolumetricLightfDensity": 0.96,
+  "VolumetricLightfExposure": 1,
+  "VolumetricLightfWeight": 0.4
+}

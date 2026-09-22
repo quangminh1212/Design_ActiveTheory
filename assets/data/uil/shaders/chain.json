@@ -1,0 +1,58 @@
+{
+  "ChainShader/ChainShader/Element_8_Work/_tx_tBaseColor": {
+    "hotreload": true,
+    "src": "assets/images/pbr/damaged_road_mro.png?1704405926050-compressedKtx2"
+  },
+  "ChainShader/ChainShader/Element_8_Work/_tx_tMRO": {
+    "compressed": "ktx2",
+    "filename": "damaged_road_mro.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/damaged_road_mro.png",
+    "useCompressed": true
+  },
+  "ChainShader/ChainShader/Element_8_Work/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "ChainShader/ChainShader/Element_8_Work/_tx_tNormal": {
+    "compressed": "ktx2",
+    "filename": "empty_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_normal.png",
+    "useCompressed": true
+  },
+  "ChainShader/ChainShader/Element_8_Work/_txtMRO": {
+    "compressed": "ktx2",
+    "filename": "damaged_road_mro.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/damaged_road_mro.png",
+    "useCompressed": true
+  },
+  "ChainShader/ChainShader/Element_8_Work/_txtMatcap": {
+    "compressed": "ktx2",
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": true
+  },
+  "ChainShader/ChainShader/Element_8_Work/_txtNormal": {
+    "compressed": "ktx2",
+    "filename": "empty_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_normal.png",
+    "useCompressed": true
+  },
+  "ChainShader/ChainShader/Element_8_Work/_txtBaseColor": {
+    "compressed": "ktx2",
+    "filename": "damaged_road_mro.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/damaged_road_mro.png",
+    "useCompressed": true
+  }
+}

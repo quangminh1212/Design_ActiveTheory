@@ -1,0 +1,57 @@
+{
+  "ATPBR/ATPBR/Element_6_homeScene/uEnv": [
+    1.5,
+    1
+  ],
+  "ATPBR/ATPBR/Element_6_homeScene/uMRON": [
+    1,
+    1.3,
+    1,
+    1
+  ],
+  "ATPBR/ATPBR/Element_6_homeScene/uTint": "#e5f1ff",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tMRO": "{\"src\":\"assets/images/global/blue.jpg\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"blue.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tNormal": "{\"src\":\"assets/images/scene_1/floor_default_Normal.jpg?1651016244129\",\"hotreload\":true}",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tBaseColor": "{\"src\":\"assets/images/scene_1/platform.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"platform.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tEnvDiffuse": "{\"src\":\"assets/images/city_env_diffuse.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"city_env_diffuse.png\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tEnvSpecular": "{\"src\":\"assets/images/city_env_specular.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"city_env_specular.png\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_6_homeScene/_tx_tLightmap": "{\"src\":\"assets/images/scene_1/platform.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"platform.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_2_homeScene/uEnv": [
+    1.5,
+    1
+  ],
+  "ATPBR/ATPBR/Element_2_homeScene/uMRON": [
+    1,
+    0.3,
+    1,
+    1
+  ],
+  "ATPBR/ATPBR/Element_2_homeScene/uTint": "#e5f1ff",
+  "ATPBR/ATPBR/Element_2_homeScene/uUseLightmap": 0,
+  "ATPBR/ATPBR/Element_2_homeScene/uUseLinearOutput": 0,
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tMRO": "{\"src\":\"assets/images/global/blue.jpg\",\"relative\":\"global\",\"prefix\":\"assets/images\",\"filename\":\"blue.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tNormal": "{\"src\":\"assets/images/scene_1/walls_default_Normal.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"walls_default_Normal.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tBaseColor": "{\"src\":\"assets/images/scene_1/walls.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"walls.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tEnvDiffuse": "{\"src\":\"assets/images/city_env_diffuse.png?1651014840647\",\"hotreload\":true}",
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tEnvSpecular": "{\"src\":\"assets/images/city_env_specular.png?1651014842809\",\"hotreload\":true}",
+  "ATPBR/ATPBR/Element_2_homeScene/_tx_tLightmap": "{\"src\":\"assets/images/scene_1/walls.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"walls.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_3_homeScene/uEnv": [
+    1.5,
+    1
+  ],
+  "ATPBR/ATPBR/Element_3_homeScene/uMRON": [
+    1,
+    1.3,
+    1,
+    1
+  ],
+  "ATPBR/ATPBR/Element_3_homeScene/uTint": "#e5f1ff",
+  "ATPBR/ATPBR/Element_3_homeScene/uUseLightmap": 0,
+  "ATPBR/ATPBR/Element_3_homeScene/uUseLinearOutput": 0,
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tMRO": "{\"src\":\"assets/images/global/blue.jpg?1651013332941\",\"hotreload\":true}",
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tNormal": "{\"src\":\"assets/images/scene_1/floor_default_Normal.jpg?1651016244129\",\"hotreload\":true}",
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tBaseColor": "{\"src\":\"assets/images/scene_1/floor.jpg\",\"relative\":\"scene_1\",\"prefix\":\"assets/images\",\"filename\":\"floor.jpg\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tEnvDiffuse": "{\"src\":\"assets/images/city_env_diffuse.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"city_env_diffuse.png\",\"compressed\":false}",
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tEnvSpecular": "{\"src\":\"assets/images/city_env_specular.png\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"city_env_specular.png\",\"hotreload\":true,\"compressed\":false}",
+  "ATPBR/ATPBR/Element_3_homeScene/_tx_tLightmap": "{\"src\":\"assets/images/scene_1/floor.jpg?1651016059692\",\"hotreload\":true}"
+}

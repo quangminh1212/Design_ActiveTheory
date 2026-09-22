@@ -1,0 +1,15 @@
+{
+  "ParticleTestShader/ParticleTestShader/P_Element_0_ParticleTest/_tx_tMap": {
+    "hotreload": true,
+    "src": "assets/images/particle/matcap3.png?1704406093391-compressedKtx2"
+  },
+  "ParticleTestShader/ParticleTestShader/P_Element_0_ParticleTest/_txtMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "ParticleTestShader/ParticleTestShader/P_Element_0_ParticleTest/uTint": "#61c2ff"
+}

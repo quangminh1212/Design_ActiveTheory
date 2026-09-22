@@ -1,0 +1,22 @@
+{
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uAlpha": 1,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uAttenuation": 0.5,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uDistortStrength": 8.06,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uEnvBlend": 1,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uFresnelColor": "#b4e0e3",
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uFresnelPow": 1.5,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uLightDir": [
+    -15.700000000000001,
+    0.27999999999999997,
+    4.5
+  ],
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uSpecAdd": [
+    4.48,
+    0
+  ],
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uPhongColor": "#ffffff",
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uRatio": 0,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uReflectScale": 1,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/uRefractionRatio": 1,
+  "GlassCubeShader/GlassCubeShader/Element_0_home_scene/_tx_tEnv": "{\"src\":\"assets/images/home/hdri.jpg\",\"relative\":\"home\",\"prefix\":\"assets/images\",\"filename\":\"hdri.jpg\",\"compressed\":false}"
+}

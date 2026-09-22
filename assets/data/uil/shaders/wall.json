@@ -1,0 +1,107 @@
+{
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "walls_lightmap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/walls_lightmap.jpg",
+    "useCompressed": false
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tEnvDiffuse": {
+    "compressed": false,
+    "filename": "tomoco_studio-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tEnvSpecular": {
+    "compressed": false,
+    "filename": "tomoco_studio-specular-RGBM.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-specular-RGBM.png",
+    "useCompressed": false
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tLightReflection": {
+    "compressed": "ktx2",
+    "filename": "wall-bouncelight.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/wall-bouncelight.jpg",
+    "useCompressed": true
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tLightmap": {
+    "compressed": "ktx2",
+    "filename": "room_combined.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/room_combined.jpg",
+    "useCompressed": true
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tMRO": {
+    "hotreload": true,
+    "src": "assets/images/room/concrete_light_mro.jpg?1704406735879-compressedKtx2"
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap.jpg?1700003733352"
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_tx_tNormal": {
+    "hotreload": true,
+    "src": "assets/images/room/concrete-polished-normal.jpg?1704406258425-compressedKtx2"
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_txtMRO": {
+    "compressed": "ktx2",
+    "filename": "concrete_light_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete_light_mro.jpg",
+    "useCompressed": true
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap.jpg",
+    "useCompressed": false
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_txtNormal": {
+    "compressed": false,
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": false
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_txtLightReflection": {
+    "compressed": "ktx2",
+    "filename": "wall-bouncelight.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/wall-bouncelight.jpg",
+    "useCompressed": true
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/_txtLightmap": {
+    "compressed": "ktx2",
+    "filename": "room_combined.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/room_combined.jpg",
+    "useCompressed": true
+  },
+  "WallShader/WallShader/Element_1_CleanRoom/uNormalStrength": 1,
+  "WallShader/WallShader/Element_1_CleanRoom/uColor": "#000000",
+  "WallShader/WallShader/Element_1_CleanRoom/uLight": [
+    -0.51,
+    0,
+    1.36,
+    0.45
+  ],
+  "WallShader/WallShader/Element_1_CleanRoom/uRUVOffset": [
+    0.76,
+    0.41
+  ],
+  "WallShader/WallShader/Element_1_CleanRoom/uRUVScale": 0.56
+}

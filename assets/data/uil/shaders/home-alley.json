@@ -1,0 +1,27 @@
+{
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uColor0": "#c9c8c8",
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uBottomLight": [
+    0.54,
+    2.1700000000000004,
+    0.14,
+    1
+  ],
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uBottomLight2": [
+    -1.92,
+    2.3000000000000003,
+    -0.25,
+    0.18000000000000002
+  ],
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uLight": [
+    2.61,
+    0.29,
+    0.5700000000000001,
+    0
+  ],
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uPhong": [
+    1.8200000000000003,
+    0.71
+  ],
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/uPhongColor": "#d600ff",
+  "HomeAlleyShader/HomeAlleyShader/Element_4_home_scene/_tx_tConcrete": "{\"src\":\"assets/images/concrete.jpg\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"concrete.jpg\",\"compressed\":false}"
+}

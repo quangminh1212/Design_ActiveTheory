@@ -1,0 +1,35 @@
+{
+  "PhysicalShader/PhysicalShader/_tx_tVideo": {
+    "compressed": false,
+    "filename": "lab.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/lab.jpg",
+    "useCompressed": false
+  },
+  "PhysicalShader/PhysicalShader/_txtVideo": {
+    "compressed": false,
+    "filename": "lab.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/lab.jpg",
+    "useCompressed": false
+  },
+  "PhysicalShader/PhysicalShader/uMRON": [
+    1,
+    1,
+    1,
+    0.04
+  ],
+  "PhysicalShader/PhysicalShader/uEnv": [
+    1,
+    0
+  ],
+  "PhysicalShader/PhysicalShader/uParams": [
+    0.573,
+    0.278,
+    0.285,
+    0.506
+  ],
+  "PhysicalShader/PhysicalShader/uUseLightmap": 0
+}

@@ -1,0 +1,11 @@
+{
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/uFresnelMin": 0.4,
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/uFresnelStrength": 0.73,
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/uSize": 1.92,
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/uVideoBound": [
+    0.8,
+    0.8
+  ],
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/_tx_tMap": "{\"src\":\"assets/images/home/sphere-normal.jpg?1624501639367\",\"hotreload\":true}",
+  "WorkPageParticleShader/WorkPageParticleShader/P_Element_4_work_page/_tx_tNormal": "{\"src\":\"assets/images/home/sphere-normal.jpg\",\"relative\":\"home\",\"prefix\":\"assets/images\",\"filename\":\"sphere-normal.jpg\",\"compressed\":false}"
+}

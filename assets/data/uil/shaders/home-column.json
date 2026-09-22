@@ -1,0 +1,28 @@
+{
+  "HomeColumnShader/HomeColumnShader/Element_10_ParticleTest/_tx_tRefraction": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "HomeColumnShader/HomeColumnShader/Element_10_ParticleTest/_txtRefraction": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "HomeColumnShader/HomeColumnShader/Element_10_ParticleTest/uOffset": 3,
+  "HomeColumnShader/HomeColumnShader/Element_9_ParticleTest/_tx_tRefraction": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "HomeColumnShader/HomeColumnShader/Element_9_ParticleTest/_txtRefraction": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "HomeColumnShader/HomeColumnShader/Element_9_ParticleTest/uOffset": 0
+}

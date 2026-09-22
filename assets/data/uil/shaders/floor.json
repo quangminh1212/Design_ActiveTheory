@@ -1,0 +1,97 @@
+{
+  "FloorShader/FloorShader/Element_0_CleanRoom/uColor": "#454545",
+  "FloorShader/FloorShader/Element_0_CleanRoom/uDistortStrength": 0.44,
+  "FloorShader/FloorShader/Element_0_CleanRoom/uLight": [
+    0,
+    1,
+    -5.57,
+    0.48
+  ],
+  "FloorShader/FloorShader/Element_0_CleanRoom/uMirrorStrength": 0.55,
+  "FloorShader/FloorShader/Element_0_CleanRoom/uNormalStrength": 1,
+  "FloorShader/FloorShader/Element_0_CleanRoom/uRUVOffset": [
+    0.81,
+    1.23
+  ],
+  "FloorShader/FloorShader/Element_0_CleanRoom/uRUVScale": 1.44,
+  "FloorShader/FloorShader/Element_0_CleanRoom/_txtLightReflection": {
+    "compressed": "ktx2",
+    "filename": "floor-lightbounce.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor-lightbounce.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_txtLightmap": {
+    "compressed": "ktx2",
+    "filename": "room_combined.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/room_combined.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_txtMRO": {
+    "compressed": "ktx2",
+    "filename": "concrete_light_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete_light_mro.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap.jpg",
+    "useCompressed": false
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_txtNormal": {
+    "compressed": "ktx2",
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tMRO": {
+    "hotreload": true,
+    "src": "assets/images/room/concrete_light_mro.jpg?1704406735879-compressedKtx2"
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "floor_diffuse.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor_diffuse.jpg",
+    "useCompressed": false
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap.jpg?1700003733352"
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tNormal": {
+    "compressed": "ktx2",
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tLightReflection": {
+    "compressed": "ktx2",
+    "filename": "floor-lightbounce.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor-lightbounce.jpg",
+    "useCompressed": true
+  },
+  "FloorShader/FloorShader/Element_0_CleanRoom/_tx_tLightmap": {
+    "compressed": "ktx2",
+    "filename": "room_combined.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/room_combined.jpg",
+    "useCompressed": true
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "AboutLogoShader/AboutLogoShader/Element_2_About/_tx_tMap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "AboutLogoShader/AboutLogoShader/Element_2_About/_tx_tNormal": {
+    "compressed": false,
+    "filename": "jungle_soil_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/jungle_soil_normal.png",
+    "useCompressed": false
+  },
+  "AboutLogoShader/AboutLogoShader/Element_2_About/_txtNormal": {
+    "compressed": false,
+    "filename": "jungle_soil_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/jungle_soil_normal.png",
+    "useCompressed": false
+  },
+  "AboutLogoShader/AboutLogoShader/Element_2_About/uNormalStrength": 0.24
+}

@@ -1,0 +1,19 @@
+{
+  "UnrealBloomComposite/UnrealBloomComposite/cleanroom/bloomStrength": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/cleanroom/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/cleanroom/bloomTintColor": "#ffffff",
+  "UnrealBloomComposite/UnrealBloomComposite/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/bloomStrength": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/globalbloom/bloomRadius": 0.2,
+  "UnrealBloomComposite/UnrealBloomComposite/globalbloom/bloomStrength": 0.3,
+  "UnrealBloomComposite/UnrealBloomComposite/home/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/home/bloomStrength": 3.8200000000000003,
+  "UnrealBloomComposite/UnrealBloomComposite/homebloom/bloomStrength": 1.2,
+  "UnrealBloomComposite/UnrealBloomComposite/homebloom/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/homebloom/bloomTintColor": "#ffffff",
+  "UnrealBloomComposite/UnrealBloomComposite/workbloom/bloomStrength": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/workbloom/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/work/bloomRadius": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/treescene/bloomStrength": 1,
+  "UnrealBloomComposite/UnrealBloomComposite/treescene/bloomRadius": 1
+}

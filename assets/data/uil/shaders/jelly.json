@@ -1,0 +1,138 @@
+{
+  "JellyShader/JellyShader/Element_11_ParticleTest/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_11_ParticleTest/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_11_ParticleTest/_txtMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_11_ParticleTest/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/uReflection": [
+    1,
+    0.15
+  ],
+  "JellyShader/JellyShader/Element_2_Footer/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/_txtMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/_txtNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_2_Footer/_tx_tNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_tx_tNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_txtMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/_txtNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "JellyShader/JellyShader/Element_3_Home/uReflection": [
+    1,
+    1
+  ]
+}

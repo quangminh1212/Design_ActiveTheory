@@ -1,0 +1,43 @@
+{
+  "ProtonTube/ProtonTube/thickness": 2,
+  "ProtonTube/TubeShader/TubeShader/_tx_tMRO": {
+    "hotreload": true,
+    "src": "assets/images/pbr/cliffs_MRO.png?1704405944984-compressedKtx2"
+  },
+  "ProtonTube/TubeShader/TubeShader/_tx_tMatcap": {
+    "hotreload": true,
+    "src": "assets/images/room/matcap-test.jpg?1704406116063-compressedKtx2"
+  },
+  "ProtonTube/TubeShader/TubeShader/_tx_tNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "ProtonTube/TubeShader/TubeShader/_txtMRO": {
+    "compressed": false,
+    "filename": "cliffs_MRO.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/cliffs_MRO.png",
+    "useCompressed": false
+  },
+  "ProtonTube/TubeShader/TubeShader/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "ProtonTube/TubeShader/TubeShader/_txtNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  }
+}

@@ -1,0 +1,100 @@
+{
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/uDistortStrength": 1,
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/uFresnelPow": 1,
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/uRefractionRatio": 1,
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_txtEnv": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_txtMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_txtRefraction": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_tx_tEnv": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_5_ParticleTest/_tx_tRefraction": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_tx_tEnv": {
+    "hotreload": true,
+    "src": "assets/images/work/env1.jpg?1704405966047-compressedKtx2"
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_tx_tMap": {
+    "compressed": false,
+    "filename": "black.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/black.jpg",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_tx_tNormal": {
+    "compressed": false,
+    "filename": "waternormals.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/waternormals.jpg",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_txtMap": {
+    "compressed": false,
+    "filename": "black.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/black.jpg",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_txtNormal": {
+    "compressed": false,
+    "filename": "waternormals.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/waternormals.jpg",
+    "useCompressed": false
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/_txtEnv": {
+    "compressed": "ktx2",
+    "filename": "env1.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/env1.jpg",
+    "useCompressed": true
+  },
+  "WorkItemShader/WorkItemShader/Element_1_Work/uDistortStrength": 0,
+  "WorkItemShader/WorkItemShader/Element_1_Work/uFresnelPow": 1,
+  "WorkItemShader/WorkItemShader/Element_1_Work/uRefractionRatio": 1
+}

@@ -1,0 +1,18 @@
+{
+  "TreeParticleShader/TreeParticleShader/P_Element_21_TreeScene/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "TreeParticleShader/TreeParticleShader/P_Element_21_TreeScene/_txtMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  }
+}

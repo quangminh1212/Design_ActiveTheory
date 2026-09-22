@@ -1,0 +1,347 @@
+{
+  "SceneLayout/SceneLayout/Element_5_CleanRoom/_txtMap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_5_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_5_work_page/_tx_tMap": "{\"src\":\"assets/images/_scenelayout/black.jpg?1624512823089\",\"hotreload\":true}",
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/uAlpha": 1,
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_txtMap": {
+    "compressed": false,
+    "filename": "1234.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/1234.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tMRO": {
+    "compressed": false,
+    "filename": "concrete_light_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete_light_mro.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "1234.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/1234.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tNormal": {
+    "compressed": false,
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "1234.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/1234.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tEnvDiffuse": {
+    "compressed": false,
+    "filename": "tomoco_studio-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_CleanRoom/_tx_tEnvSpecular": {
+    "compressed": false,
+    "filename": "tomoco_studio-specular-RGBM.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-specular-RGBM.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_TreeScene/_tx_tMRO": {
+    "compressed": false,
+    "filename": "alien_cracked_2_mro.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_mro.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_TreeScene/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "matcap_tree_room.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/matcap_tree_room.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_TreeScene/_tx_tNormal": {
+    "compressed": false,
+    "filename": "alien_cracked_2_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/pbr/alien_cracked_2_normal.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_TreeScene/_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_6_homeScene/_tx_tMap": "{\"src\":\"assets/images/scene_1/platform.jpg?1651014241287\",\"hotreload\":true}",
+  "SceneLayout/SceneLayout/Element_8_ParticleTest/_tx_tMap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_About/_tx_tMap": {
+    "compressed": "ktx2",
+    "filename": "about.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_temp/about.jpg",
+    "useCompressed": true
+  },
+  "SceneLayout/SceneLayout/Element_0_About/_txtMap": {
+    "compressed": "ktx2",
+    "filename": "about.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_temp/about.jpg",
+    "useCompressed": true
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_txtMap": {
+    "compressed": false,
+    "filename": "floor_diffuse.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor_diffuse.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tMRO": {
+    "compressed": false,
+    "filename": "walls_default_MRO.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/walls_default_MRO.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "floor_diffuse.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor_diffuse.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tNormal": {
+    "compressed": false,
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "floor_lightmap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor_lightmap.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tEnvDiffuse": {
+    "compressed": false,
+    "filename": "tomoco_studio-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tEnvSpecular": {
+    "compressed": false,
+    "filename": "tomoco_studio-specular-RGBM.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-specular-RGBM.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_CleanRoom/_tx_tLightmap": {
+    "compressed": false,
+    "filename": "floor_lightmap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/floor_lightmap.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_WorkDetailContent/_tx_tMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_0_WorkDetailContent/_txtMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "uv.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/uv.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tEnvDiffuse": {
+    "compressed": false,
+    "filename": "pano-ATv6-1700435330543-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/pano-ATv6-1700435330543-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tEnvSpecular": {
+    "compressed": false,
+    "filename": "pano-ATv6-1700435330543-specular-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/pano-ATv6-1700435330543-specular-sRGB.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tLightmap": {
+    "compressed": false,
+    "filename": "tomoco_studio-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tMRO": {
+    "compressed": false,
+    "filename": "empty_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_mro.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_13_CleanRoom/_tx_tNormal": {
+    "compressed": false,
+    "filename": "empty_normal.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/empty_normal.png",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_17_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_17_CleanRoom/_txtMap": {
+    "compressed": false,
+    "filename": "mask.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/mask.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_17_TreeScene/_tx_tMap": {
+    "compressed": false,
+    "filename": "blck.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/blck.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_17_TreeScene/_txtMap": {
+    "compressed": false,
+    "filename": "blck.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/tree_room/blck.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_15_home_scene/_tx_tMap": "{\"src\":\"\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"\"}",
+  "SceneLayout/SceneLayout/Element_15_home_scene/uAlpha": 1,
+  "SceneLayout/SceneLayout/Element_1_WorkDetailContent/_tx_tMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_1_WorkDetailContent/_txtMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_20_home_scene/_tx_tMap": "{\"src\":\"assets/images/02_view_dependant_color_gradients.jpg\",\"relative\":\"\",\"prefix\":\"assets/images\",\"filename\":\"02_view_dependant_color_gradients.jpg\",\"compressed\":false}",
+  "SceneLayout/SceneLayout/Element_22_CleanRoom/_tx_tMap": {
+    "compressed": false,
+    "filename": "at-labrds.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/ui/at-labrds.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_22_CleanRoom/_txtMap": {
+    "compressed": false,
+    "filename": "at-labrds.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/ui/at-labrds.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_22_CleanRoom/uAlpha": 0.6,
+  "SceneLayout/SceneLayout/Element_2_WorkDetailContent/_tx_tMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_2_WorkDetailContent/_txtMap": {
+    "compressed": false,
+    "filename": "test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/work/test.jpg",
+    "useCompressed": false
+  },
+  "SceneLayout/SceneLayout/Element_2_homeScene/_tx_tMap": "{\"src\":\"assets/images/scene_1/walls.jpg?1651014713711\",\"hotreload\":true}",
+  "SceneLayout/SceneLayout/Element_3_homeScene/_tx_tMap": "{\"src\":\"assets/images/scene_1/floor.jpg?1651014545365\",\"hotreload\":true}"
+}

@@ -1,0 +1,18 @@
+{
+  "WorkItemUIShader/WorkItemUIShader/Element_3_Work/_tx_tMap": {
+    "compressed": false,
+    "filename": "uv.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/uv.jpg",
+    "useCompressed": false
+  },
+  "WorkItemUIShader/WorkItemUIShader/Element_3_Work/_txtMap": {
+    "compressed": false,
+    "filename": "uv.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/_scenelayout/uv.jpg",
+    "useCompressed": false
+  }
+}

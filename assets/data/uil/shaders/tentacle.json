@@ -1,0 +1,20 @@
+{
+  "TentacleShader/TentacleShader/_tx_tMatCap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "TentacleShader/TentacleShader/_txtMatCap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "TentacleShader/TentacleShader/uRadius": 0.025,
+  "TentacleShader/TentacleShader/uTint": "#B38AFF"
+}

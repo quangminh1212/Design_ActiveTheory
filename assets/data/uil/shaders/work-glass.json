@@ -1,0 +1,28 @@
+{
+  "WorkGlassShader/WorkGlassShader/uAlpha": 1,
+  "WorkGlassShader/WorkGlassShader/uAttenuation": 0.18999999999999995,
+  "WorkGlassShader/WorkGlassShader/uBlend": 0.6,
+  "WorkGlassShader/WorkGlassShader/uGlassAdd": 0.25,
+  "WorkGlassShader/WorkGlassShader/uDOFContrast": [
+    1,
+    1.3
+  ],
+  "WorkGlassShader/WorkGlassShader/uEnvBlend": 0,
+  "WorkGlassShader/WorkGlassShader/uFresnelAlpha": 1,
+  "WorkGlassShader/WorkGlassShader/uFresnelColor": "#e9f9ff",
+  "WorkGlassShader/WorkGlassShader/uFresnelPow": 1,
+  "WorkGlassShader/WorkGlassShader/uLightDir": [
+    0,
+    -1.12,
+    4.6899999999999995
+  ],
+  "WorkGlassShader/WorkGlassShader/uSpecAdd": [
+    1.53,
+    0
+  ],
+  "WorkGlassShader/WorkGlassShader/uPhongColor": "#ffffff",
+  "WorkGlassShader/WorkGlassShader/uReflectScale": 0,
+  "WorkGlassShader/WorkGlassShader/uRefractionRatio": 0,
+  "WorkGlassShader/WorkGlassShader/uTransparent": 1,
+  "WorkGlassShader/WorkGlassShader/_tx_tEnv": "{\"src\":\"assets/images/home/hdri.jpg\",\"relative\":\"home\",\"prefix\":\"assets/images\",\"filename\":\"hdri.jpg\",\"compressed\":false}"
+}

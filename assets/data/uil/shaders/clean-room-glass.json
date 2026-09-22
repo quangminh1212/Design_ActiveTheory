@@ -1,0 +1,37 @@
+{
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/uDistortStrength": -1,
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/uFresnelPow": -0.03,
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/uRefractionRatio": 0.34,
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/_txtEnv": {
+    "compressed": "ktx2",
+    "filename": "pano-ATv6-1700435330543.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/pano-ATv6-1700435330543.jpg",
+    "useCompressed": true
+  },
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/_txtMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/_tx_tMatcap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "CleanRoomGlass/CleanRoomGlass/Element_4_CleanRoom/_tx_tEnv": {
+    "compressed": "ktx2",
+    "filename": "pano-ATv6-1700435330543.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/pano-ATv6-1700435330543.jpg",
+    "useCompressed": true
+  }
+}

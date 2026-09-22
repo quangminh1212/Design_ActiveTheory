@@ -1,0 +1,15 @@
+{
+  "WorkDetailParticleShader/WorkDetailParticleShader/P_Element_0_WorkDetailParticles/_tx_tMap": {
+    "hotreload": true,
+    "src": "assets/images/particle/matcap3.png?1704406093391-compressedKtx2"
+  },
+  "WorkDetailParticleShader/WorkDetailParticleShader/P_Element_0_WorkDetailParticles/_txtMap": {
+    "compressed": false,
+    "filename": "matcap3.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/particle/matcap3.png",
+    "useCompressed": false
+  },
+  "WorkDetailParticleShader/WorkDetailParticleShader/P_Element_0_WorkDetailParticles/uSize": 8.56
+}

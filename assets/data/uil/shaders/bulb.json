@@ -1,0 +1,20 @@
+{
+  "BulbShader/BulbShader/Element_0_Bulb/_tx_tMatCap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "BulbShader/BulbShader/Element_0_Bulb/_txtMatCap": {
+    "compressed": false,
+    "filename": "matcap-test.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/matcap-test.jpg",
+    "useCompressed": false
+  },
+  "BulbShader/BulbShader/Element_0_Bulb/uFrequency": 1.2,
+  "BulbShader/BulbShader/Element_0_Bulb/uTint": "#B38AFF"
+}

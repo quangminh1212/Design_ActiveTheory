@@ -1,0 +1,20 @@
+{
+  "HomeScreenLight/HomeScreenLight/Element_14_home_scene/uColor": "#d600ff",
+  "HomeScreenLight/HomeScreenLight/Element_15_home_scene/uColor": "#d600ff",
+  "HomeScreenLight/HomeScreenLight/Element_12_home_scene/_tx_tMap": "{\"src\":\"assets/images/_scenelayout/uv.jpg\",\"relative\":\"_scenelayout\",\"prefix\":\"assets/images\",\"filename\":\"uv.jpg\",\"compressed\":false}",
+  "HomeScreenLight/HomeScreenLight/Element_12_home_scene/uIsScreen": 1,
+  "HomeScreenLight/HomeScreenLight/Element_12_home_scene/uUVTransform": [
+    1,
+    6.75,
+    0,
+    -0.04000000000000001
+  ],
+  "HomeScreenLight/HomeScreenLight/Element_13_home_scene/_tx_tMap": "{\"src\":\"assets/images/_scenelayout/uv.jpg\",\"relative\":\"_scenelayout\",\"prefix\":\"assets/images\",\"filename\":\"uv.jpg\",\"compressed\":false}",
+  "HomeScreenLight/HomeScreenLight/Element_13_home_scene/uIsScreen": 1,
+  "HomeScreenLight/HomeScreenLight/Element_13_home_scene/uUVTransform": [
+    1,
+    4.779999999999999,
+    0,
+    0.24
+  ]
+}

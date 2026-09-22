@@ -1,0 +1,58 @@
+{
+  "undefined_tx_tBaseColor": {
+    "compressed": false,
+    "filename": "prop_lightmap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/prop_lightmap.jpg",
+    "useCompressed": false
+  },
+  "undefined_tx_tEnvDiffuse": {
+    "compressed": false,
+    "filename": "tomoco_studio-diffuse-sRGB.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-diffuse-sRGB.png",
+    "useCompressed": false
+  },
+  "undefined_tx_tEnvSpecular": {
+    "compressed": false,
+    "filename": "tomoco_studio-specular-RGBM.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/tomoco_studio-specular-RGBM.png",
+    "useCompressed": false
+  },
+  "undefined_tx_tLightmap": {
+    "compressed": false,
+    "filename": "landscape_lightmap.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/landscape_lightmap.jpg",
+    "useCompressed": false
+  },
+  "undefined_tx_tMRO": {
+    "compressed": false,
+    "filename": "concrete_light_mro.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete_light_mro.jpg",
+    "useCompressed": false
+  },
+  "undefined_tx_tMap": {
+    "compressed": false,
+    "filename": "1234.png",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/1234.png",
+    "useCompressed": false
+  },
+  "undefined_tx_tNormal": {
+    "compressed": false,
+    "filename": "concrete-polished-normal.jpg",
+    "prefix": "assets/images",
+    "relative": "assets/images",
+    "src": "assets/images/room/concrete-polished-normal.jpg",
+    "useCompressed": false
+  }
+}

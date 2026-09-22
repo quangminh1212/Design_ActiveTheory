@@ -1,0 +1,9 @@
+{
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/treescene/luminosityThreshold": 0,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/workbloom/luminosityThreshold": 0,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/cleanroom/luminosityThreshold": 0.2,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/globalbloom/luminosityThreshold": 0,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/home/luminosityThreshold": 0,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/homebloom/luminosityThreshold": 0,
+  "UnrealBloomLuminosity/UnrealBloomLuminosity/luminosityThreshold": 0
+}
