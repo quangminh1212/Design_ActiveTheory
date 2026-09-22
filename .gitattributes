@@ -1,0 +1,23 @@
+* text=auto eol=lf
+
+# Binary assets — không đụng tới
+*.png  binary
+*.jpg  binary
+*.jpeg binary
+*.gif  binary
+*.webp binary
+*.ico  binary
+*.woff binary
+*.woff2 binary
+*.otf  binary
+*.ttf  binary
+*.bin  binary
+*.cube binary
+*.mp4  binary
+*.mp3  binary
+
+# Bundle đã build — không diff, không merge
+assets/js/app.*.js  -diff merge=binary linguist-generated=true
+
+# Data — diff được nhưng không merge tự động
+assets/data/**/*.json -diff
