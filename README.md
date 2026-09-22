@@ -9,9 +9,21 @@ phát triển trải nghiệm số.
 
 ## Trạng thái
 
-Repo **chưa chạy được** — có vỏ HTML, bundle và dữ liệu UIL, nhưng thiếu
-geometry, texture, font và thư viện phụ. Chạy `npm run validate` để xem danh
-sách asset còn thiếu.
+Experience local đã chạy độc lập và không còn phụ thuộc geometry/texture/WebGL
+được scrape. `src/index.html` là một creative experience original gồm canvas
+particle/ring, About, Work, Lab, Contact, project dialog, menu responsive và
+reduced-motion fallback. Bundle/UIL archive vẫn được giữ nguyên để tham khảo,
+không được dùng làm runtime chính vì bản scrape gốc thiếu các thư viện phụ.
+
+```bash
+npm run verify       # validate UIL + roundtrip + browser smoke desktop/mobile
+npm run validate     # kiểm tra tính toàn vẹn archive
+npm run roundtrip    # kiểm tra tách/gộp UIL không mất dữ liệu
+```
+
+Serve repository rồi truy cập `/` (redirect tới `/src/`). Script
+`scripts/verify-experience.mjs` tự dựng static server tạm thời, kiểm tra canvas,
+điều hướng, dialog, menu mobile, console error và mọi request local.
 
 ## Cấu trúc
 

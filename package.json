@@ -9,7 +9,9 @@
     "build:uil": "node scripts/build-uil.mjs",
     "merge:uil": "node scripts/merge-uil.mjs",
     "validate": "node scripts/validate.mjs",
-    "roundtrip": "node scripts/merge-uil.mjs --check"
+    "roundtrip": "node scripts/merge-uil.mjs --check",
+    "verify:experience": "node scripts/verify-experience.mjs",
+    "verify": "npm run validate && npm run roundtrip && npm run verify:experience"
   },
   "engines": {
     "node": ">=18"

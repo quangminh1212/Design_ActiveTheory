@@ -166,19 +166,19 @@ if (!fs.existsSync(htmlPath)) {
   bad('Không tìm thấy src/index.html');
 } else {
   const html = fs.readFileSync(htmlPath, 'utf8');
-  // Chỉ kiểm tra các đường dẫn tương đối (bỏ qua http(s):, //, data:, và %VAR%)
+  // Chỉ kiểm tra các đường dẫn tương đối (bỏ qua anchor, mailto, http(s), data:, và %VAR%).
   const refs = new Set();
   const reAttr = /(?:src|href)="([^"]+)"/g;
   let m;
   while ((m = reAttr.exec(html))) {
     const url = m[1];
-    if (/^(https?:)?\/\//.test(url) || url.startsWith('data:') || url.includes('%')) continue;
+    if (/^(https?:)?\/\//.test(url) || url.startsWith('data:') || url.startsWith('#') || /^(mailto|tel):/.test(url) || url.includes('%')) continue;
     refs.add(url);
   }
 
   let missing = 0;
   for (const ref of refs) {
-    const p = path.join(ROOT, ref);
+    const p = path.resolve(path.dirname(htmlPath), ref);
     if (!fs.existsSync(p)) { warn(`Thiếu (chưa scrape): ${ref}`); missing++; }
   }
   if (!missing) ok(`${refs.size} tham chiếu đều resolve`);
@@ -190,8 +190,10 @@ if (!fs.existsSync(htmlPath)) {
     const expected = `assets/js/app.${cache[1]}.js`;
     if (fs.existsSync(path.join(ROOT, expected))) ok(`Bundle khớp _CACHE_: ${expected}`);
     else bad(`_CACHE_=${cache[1]} → cần ${expected} nhưng không có trên đĩa`);
+  } else if (fs.existsSync(path.join(path.dirname(htmlPath), 'active-theory-clone.js'))) {
+    ok('Custom experience bootstrap khớp: src/active-theory-clone.js');
   } else {
-    warn('Không tìm thấy _CACHE_ trong index.html');
+    warn('Không tìm thấy _CACHE_ hoặc custom bootstrap trong index.html');
   }
 }
 
