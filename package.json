@@ -11,10 +11,11 @@
     "validate": "node scripts/validate.mjs",
     "roundtrip": "node scripts/merge-uil.mjs --check",
     "verify:experience": "node scripts/verify-experience.mjs",
-    "verify": "npm run validate && npm run roundtrip && npm run verify:experience"
+    "verify": "pnpm run validate && pnpm run roundtrip && pnpm run verify:experience"
   },
   "engines": {
-    "node": ">=18"
+    "node": ">=18",
+    "pnpm": ">=12.0.0"
   },
   "keywords": [
     "archive",
@@ -22,5 +23,6 @@
     "uil",
     "hydra",
     "active-theory"
-  ]
+  ],
+  "packageManager": "pnpm@12.11.2"
 }

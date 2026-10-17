@@ -10,12 +10,12 @@
  * ---------------------
  * Script này phân loại 1:1 — mỗi key nguồn đi vào ĐÚNG MỘT file đích, và
  * `merge-uil.mjs` dựng lại được file gốc deep-equal. Nếu bạn sửa bảng phân
- * loại ở đây, phải chạy `npm run roundtrip` để xác nhận vẫn khớp.
+ * loại ở đây, phải chạy `pnpm run roundtrip` để xác nhận vẫn khớp.
  *
  * Thứ tự phân loại có ý nghĩa: key nào khớp rule đầu tiên thì dừng, nên các
  * rule hẹp (shader, editor state) phải đứng TRƯỚC rule rộng (scene).
  *
- * Chạy: npm run build:uil  [-- --source <path> --out <dir>]
+ * Chạy: pnpm run build:uil  [-- --source <path> --out <dir>]
  */
 
 import fs from 'node:fs';
@@ -222,8 +222,8 @@ const manifest = {
   // Thứ tự key tuyệt đối của file gốc — nguồn chân lý cho merge.
   keyOrder: sourceKeys,
   note:
-    'Chạy `npm run merge:uil` để dựng lại file gốc, ' +
-    '`npm run roundtrip` để kiểm tra tính toàn vẹn.',
+    'Chạy `pnpm run merge:uil` để dựng lại file gốc, ' +
+    '`pnpm run roundtrip` để kiểm tra tính toàn vẹn.',
 };
 
 fs.writeFileSync(path.join(OUT, 'uil.json'), JSON.stringify(manifest, null, 2) + '\n');

@@ -7,8 +7,8 @@
  * với file gốc.
  *
  * Chạy:
- *   npm run merge:uil            → ghi _scrape/uil.json.rebuilt.json
- *   npm run roundtrip            → chỉ kiểm tra, exit code 1 nếu lệch
+ *   pnpm run merge:uil            → ghi _scrape/uil.json.rebuilt.json
+ *   pnpm run roundtrip            → chỉ kiểm tra, exit code 1 nếu lệch
  */
 
 import fs from 'node:fs';
@@ -26,7 +26,7 @@ function fail(msg) {
   process.exit(1);
 }
 
-if (!fs.existsSync(MANIFEST)) fail(`Không tìm thấy manifest: ${MANIFEST}\n  Chạy: npm run build:uil`);
+if (!fs.existsSync(MANIFEST)) fail(`Không tìm thấy manifest: ${MANIFEST}\n  Chạy: pnpm run build:uil`);
 if (!fs.existsSync(ORIGINAL)) fail(`Không tìm thấy file gốc: ${ORIGINAL}`);
 
 const manifest = JSON.parse(fs.readFileSync(MANIFEST, 'utf8'));
@@ -61,7 +61,7 @@ for (const items of Object.values(manifest.modules)) {
 }
 
 if (!Array.isArray(manifest.keyOrder)) {
-  fail('Manifest thiếu mảng `keyOrder` — chạy lại: npm run build:uil');
+  fail('Manifest thiếu mảng `keyOrder` — chạy lại: pnpm run build:uil');
 }
 if (manifest.keyOrder.length !== pool.size) {
   fail(`keyOrder có ${manifest.keyOrder.length} phần tử nhưng gom được ${pool.size} key`);

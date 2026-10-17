@@ -139,7 +139,7 @@ Chi tiết cách lấy phần còn thiếu: xem `docs/scraping.md`.
 ## Trạng thái repo hiện tại
 
 Repo **chưa chạy được**. Nó có đủ vỏ HTML, bundle và dữ liệu UIL, nhưng thiếu
-geometry/texture/font và các thư viện phụ. Chạy `npm run validate` để xem
+geometry/texture/font và các thư viện phụ. Chạy `pnpm run validate` để xem
 danh sách asset còn thiếu — script này đối chiếu `src/index.html` với đĩa và
 liệt kê những gì chưa có.
 

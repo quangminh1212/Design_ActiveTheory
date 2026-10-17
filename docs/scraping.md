@@ -3,7 +3,7 @@
 Repo hiện có vỏ HTML, bundle và dữ liệu UIL, nhưng **chưa chạy được** vì thiếu
 asset. Tài liệu này liệt kê chính xác những gì còn thiếu và cách lấy.
 
-Chạy `npm run validate` để xem danh sách cập nhật theo thời gian thực.
+Chạy `pnpm run validate` để xem danh sách cập nhật theo thời gian thực.
 
 ## Cách lấy
 
@@ -96,14 +96,14 @@ assets/images/
 ## Sau khi tải về
 
 ```bash
-npm run validate
+pnpm run validate
 ```
 
 Script sẽ đối chiếu `src/index.html` với đĩa và báo còn thiếu gì. Khi hết
 cảnh báo "chưa scrape", chạy thử:
 
 ```bash
-npx serve .     # hoặc bất kỳ static server nào
+pnpm dlx serve .     # hoặc bất kỳ static server nào
 ```
 
 Mở `http://localhost:3000/src/` — cần serve từ **gốc repo** để `<base href="../">`

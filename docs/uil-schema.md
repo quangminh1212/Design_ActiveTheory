@@ -114,7 +114,7 @@ trong `inputs/`, `meshes/`, `camera/` và `shaders/`.
 
 Đây là đánh đổi có chủ ý. Nếu bạn muốn xếp theo scene thay vì shader, sửa thứ
 tự rule trong `scripts/build-uil.mjs` (đưa `SCENE_RULES` lên trước
-`KIND_RULES`), rồi chạy lại `npm run build:uil && npm run roundtrip`.
+`KIND_RULES`), rồi chạy lại `pnpm run build:uil && pnpm run roundtrip`.
 
 ## Ví dụ giá trị
 
@@ -149,11 +149,11 @@ tự rule trong `scripts/build-uil.mjs` (đưa `SCENE_RULES` lên trước
 Việc tách module giữ nguyên mọi thứ. Roundtrip được kiểm chứng:
 
 ```
-npm run build:uil      # tách
-npm run roundtrip      # kiểm tra dựng lại khớp file gốc
+pnpm run build:uil      # tách
+pnpm run roundtrip      # kiểm tra dựng lại khớp file gốc
 ```
 
 Kết quả hiện tại: **2593/2593 key khớp cả giá trị lẫn thứ tự.**
 
 `assets/data/uil.json` (manifest) ghi `sha256` và `bytes` của file gốc, nên
-`npm run validate` phát hiện được nếu file gốc bị đổi.
+`pnpm run validate` phát hiện được nếu file gốc bị đổi.
