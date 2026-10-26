@@ -103,10 +103,10 @@ Script sẽ đối chiếu `src/index.html` với đĩa và báo còn thiếu g�
 cảnh báo "chưa scrape", chạy thử:
 
 ```bash
-pnpm dlx serve .     # hoặc bất kỳ static server nào
+pnpm dlx serve . --listen tcp://127.0.0.1:3012     # hoặc bất kỳ static server nào
 ```
 
-Mở `http://localhost:3000/src/` — cần serve từ **gốc repo** để `<base href="../">`
+Mở `http://localhost:3012/src/` — cần serve từ **gốc repo** để `<base href="../">`
 resolve đúng.
 
 ## Ghi chú pháp lý
